@@ -1,0 +1,11 @@
+name: Mmomain
+version: ${project.version}
+main: com.ultraplugins.mmomain.Mmomain
+api-version: 1.16
+authors: [ Shadow501pl, Willikonk ]
+
+commands:
+  resource:
+    usage: /resource
+  weapon:
+    usage: /weapon
